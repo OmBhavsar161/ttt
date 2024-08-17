@@ -6,6 +6,8 @@ import Log from './Components/Log.jsx';
 import GameOver from "./Components/GameOver.jsx";
 import { WINNING_COMBINATIONS } from './Components/winning-combinations.js';
 
+// This is demo check
+
 const PLAYERS = {
   X: 'Player 1',
   O: 'Player 2'
